@@ -1,3 +1,3 @@
 # .github
 
-remarkablemark's GitHub templates and configs
+GitHub templates and configs
