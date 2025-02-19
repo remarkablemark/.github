@@ -1,3 +1,3 @@
 # .github
 
-GitHub templates and configs
+🗂️ GitHub templates and configs
